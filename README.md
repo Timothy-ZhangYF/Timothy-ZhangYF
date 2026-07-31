@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Timothy Zhang 
 
-<!--
-**Timothy-ZhangYF/Timothy-ZhangYF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineer with a passion for embedded systems, edge AI (TinyML), real-time controls, and custom hardware design (EDA & CAD).
 
-Here are some ideas to get you started:
+Welcome to my portfolio! Below is a curated collection of my featured projects across embedded software, machine learning, and analog/digital hardware design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Top Featured Projects
+
+| Project | Domain / Tech Stack | Highlights | Repository |
+| :--- | :--- | :--- | :--- |
+| **Ohm Sweet Ohm: TinyML Resistor Classifier** | TinyML, Edge Vision, ESP32, TFLite Micro, C++ | **99.74% INT8 quantized accuracy** on an ESP32-S3 microcontroller (~1.2s latency) for resistor classification across 10 classes. | [View Project](https://github.com/Timothy-ZhangYF/TinyML-Resistor-Classifier) |
+| **Discrete Analog Metal Detector** | Analog Circuits, PCB Design, LTspice, Oscillators | Heterodyne beat-frequency metal detector with custom-wound sensing coil, MOSFET mixer, and audio amplifier. | [View Project](https://github.com/Timothy-ZhangYF/Analog-Metal-Detector) |
+| **MEAM510** |  |  | [View Project](https://github.com/Timothy-ZhangYF/TBD) |
+| **ESE516** |  |  | [View Project](https://github.com/Timothy-ZhangYF/TBD) |
+| **Senior Design** |  |  | [View Project](https://github.com/Timothy-ZhangYF/TBD) |
+| **YOLO Train** |  |  | [View Project](https://github.com/Timothy-ZhangYF/TBD) |
+
+---
+
+## Technical Core & Tooling
+
+| Embedded Systems & Firmware | Machine Learning & Edge Computing | Hardware Design & Lab Tools |
+| :--- | :--- | :--- |
+| • C, C++, Python | • PyTorch, TensorFlow | • Schematic Capture & PCB Layout<br>*(Altium)* |
+| • Microcontrollers<br>*(ESP32, STM32)* | • Model Quantization<br>*(TFLite, TFLite Micro, Hailo, IMX500)* | • Circuit Simulation<br>*(LTspice, Cadence)* |
+| • Communication Protocols<br>*(SPI, I2C, UART)* | • Computer Vision<br>*(OpenCV, YOLO)* | • CAD / Mechanical<br>*(SolidWorks CSWA, Fusion, Onshape)* |
+| • FreeRTOS / Bare-Metal | • Linux Systems<br>*(SBCs, Servers, CLI)* | • Rapid Prototyping<br>*(3D Printing, Laser Cutting)* |
+| • IoT Networking<br>*(MQTT, VPN, Hosting)* | • Data Science<br>*(NumPy, Pandas, Matplotlib)* | • Lab Equipment<br>*(Oscilloscopes, Logic Analyzers)* |
+
+
+## Additional Projects
+ESE519, rpicamera(IR images), air? maybe 
+
+## Contact Me
+
+Links tbd
