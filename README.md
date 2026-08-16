@@ -15,7 +15,7 @@ Welcome to my portfolio! Below is a curated collection of my featured projects a
 | **Senior Design** |  |  | [View Project](https://github.com/Timothy-ZhangYF/TBD) |
 | **YOLO Train** |  |  | [View Project](https://github.com/Timothy-ZhangYF/YOLO11n-Fine-Tune-Birds) |
 | **Discrete Analog Metal Detector** | Analog Circuits, PCB Design, LTspice, Oscillators | Heterodyne beat-frequency metal detector with custom-wound sensing coil, MOSFET mixer, and audio amplifier. | [View Project](https://github.com/Timothy-ZhangYF/Analog-Metal-Detector) |
-| **MEAM510** |  |  | [View Project](https://github.com/Timothy-ZhangYF/MEAM-5100-Semi-Autonomous-Rover) |
+| **MEAM510** | Closed-Loop Controls, PID, C++, CAD & Manufacturing |  | [View Project](https://github.com/Timothy-ZhangYF/MEAM-5100-Semi-Autonomous-Rover) |
 
 ---
 
