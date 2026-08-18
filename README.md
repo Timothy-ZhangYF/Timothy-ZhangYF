@@ -13,8 +13,8 @@ Welcome to my portfolio! Below is a curated collection of my featured projects a
 | **Ohm Sweet Ohm: TinyML Resistor Classifier** | TinyML, Edge Vision, ESP32, TFLite Micro, C++ | **99.74% INT8 quantized accuracy** on an ESP32-S3 microcontroller (~1.2s latency) for resistor classification across 10 classes. | [View Project](https://github.com/Timothy-ZhangYF/TinyML-Resistor-Classifier) |
 | **Senior Design** |  |  | [View Project](https://github.com/Timothy-ZhangYF/TBD) |
 | **YOLO Train** |  |  | [View Project](https://github.com/Timothy-ZhangYF/YOLO11n-Fine-Tune-Birds) |
-| **ESE5160** | PCB Design, RTOS, MQTT, IOT, Serial Communication, Power | ESE 5160 IOT Final Project, an IOT Seakeeper (Gyroscopic stabilization) emergency project overhaul over 3 days | [View Project](https://github.com/Timothy-ZhangYF/ESE-5160) |
-| **Discrete Analog Metal Detector** | Analog Circuits, PCB Design, LTspice, Oscillators | Heterodyne beat-frequency metal detector with custom-wound sensing coil, MOSFET mixer, and audio amplifier. | [View Project](https://github.com/Timothy-ZhangYF/Analog-Metal-Detector) |
+| **ESE5160** | PCB, RTOS, MQTT, IOT, Serial COM, Power | ESE 5160 IOT Final Project, an IOT Seakeeper (Gyroscopic stabilization) emergency project overhaul over 3 days | [View Project](https://github.com/Timothy-ZhangYF/ESE-5160) |
+| **Discrete Analog Metal Detector** | Analog Circuits, PCB, LTspice, Oscillators | Heterodyne beat-frequency metal detector with custom-wound sensing coil, MOSFET mixer, and audio amplifier. | [View Project](https://github.com/Timothy-ZhangYF/Analog-Metal-Detector) |
 | **MEAM 5100: Semi-Autonomous Rover** | Closed-Loop Controls, PID, C++, CAD, Laser-Cutting | Champion of arena game competition rover featuring closed-loop PID controls under autonomous/manual operation | [View Project](https://github.com/Timothy-ZhangYF/MEAM-5100-Semi-Autonomous-Rover) |
 
 ---
